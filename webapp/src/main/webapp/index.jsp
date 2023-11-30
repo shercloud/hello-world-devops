@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Salom gruppadagi galvarslar</h1>
+<h1>Salom gruppadagi ablahlar</h1>
 <p>My first paragraph.</p>
 
 </body>
